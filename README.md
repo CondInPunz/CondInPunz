@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Python.
 - 🤔 I’m looking for help with Kotlin and Java.
 - 📫 How to reach me: @justcipunz (any social media).
-- ⚡ Fun fact: i like to fuck sponges.
 
 <!--
 **CondInPunz/CondInPunz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
