@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Askhat, I'm 16yo and I want to become a cool programmer! :fire: 😎:
 
-- 🔭 I’m currently working on my own FNAF parody.
+- 🔭 I’m currently working on [FNAP](https://github.com/CondInPunz/FNAP) - my own FNAF parody game.
 - 🌱 I’m currently learning Python.
 - 🤔 I’m looking for help with learning C, C#, C++, Kotlin, and Java. 
 - 🔨 I've previously had an experience of building desktop apps with Python and Qt Framework, Pygame and creating servers with flask framework.
