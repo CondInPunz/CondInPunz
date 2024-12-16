@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Askhat, I'm 18yo and I want to become a cool programmer! :fire: 😎:
+### Hi there 👋 My name is Askhat, I'm 19yo and I want to become a cool programmer! :fire: 😎:
 
 - 🔭 I’m currently working on [FNAP](https://github.com/CondInPunz/FNAP) - my own FNAF parody game.
 - 🌱 I’m currently learning Python.
